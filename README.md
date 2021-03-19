@@ -12,6 +12,10 @@
 
 ### React
 * [The last guide to the useEffect Hook you’ll ever need](https://blog.logrocket.com/guide-to-react-useeffect-hook/)
+* [Flux Architecture](https://facebook.github.io/flux/docs/in-depth-overview/)
 
 ## Accessibility
 * [Web Content Accessibility Guidelines](https://www.w3.org/WAI/WCAG21/quickref/)
+
+## Other
+* [Learn Regex](https://regex101.com/)
