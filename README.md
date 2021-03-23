@@ -1,4 +1,7 @@
 # Awesome Web Dev Resources
+
+* [MDN - for everything](https://developer.mozilla.org/en-US/)
+
 ## HTML
 * [W3C HTML - Markup Validator](https://validator.w3.org/)
 
@@ -6,6 +9,7 @@
 * [CSS Guidelines](https://cssguidelin.es/)
 
 ## Javascript
+* [javscript.info](https://javascript.info/)
 
 ### Node.js
 * [Node.js Event Loop](https://nodejs.dev/learn/the-nodejs-event-loop)
