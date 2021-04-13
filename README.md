@@ -32,3 +32,8 @@
 * [Learn Regex](https://regex101.com/)
 * [Vim Cheat Sheet](https://factorpad.com/tech/vim-cheat-sheet.html)
 * [Git & Github 101](https://www.notion.so/Git-GitHub-61bc81766b2e4c7d9a346db3078ce833)
+
+## CSS Tools
+* [Glassmorphism](https://glassmorphism.com/)
+* [Tailwind Blocks](https://blocks.wickedtemplates.com/)
+* [CSS Snippets](https://codemyui.com/)
