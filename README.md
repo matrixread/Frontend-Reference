@@ -7,6 +7,8 @@
 
 ## CSS
 * [CSS Guidelines](https://cssguidelin.es/)
+* [Learn CSS Grid by Building 5 Layouts](https://www.freecodecamp.org/news/learn-css-grid-by-building-5-layouts/)
+* [CSS Variables and How To Use Them](https://blog.shahednasser.com/css-variables-and-how-to-use-them/)
 
 ## Javascript
 * [Learn JS](https://www.learn-js.org/en/)
@@ -15,7 +17,6 @@
 * [JavaScript Tutorial](https://www.javascripttutorial.net/)
 * [Eloquent JavaScript PDF](https://eloquentjavascript.net/)
 
-
 ### Node.js
 * [Node.js Event Loop](https://nodejs.dev/learn/the-nodejs-event-loop)
 
@@ -23,6 +24,7 @@
 * [Flux Architecture](https://facebook.github.io/flux/docs/in-depth-overview/)
 * [React Router 101](https://reactrouter.com/web/guides/quick-start)
 * [Full React Course 2020](https://youtu.be/4UZrsTqkcW4)
+* [5 Key React Lessons the Tutorials Don't Teach You](https://www.freecodecamp.org/news/5-react-lessons-tutorials-dont-teach/)
 * [The last guide to the useEffect Hook you’ll ever need](https://blog.logrocket.com/guide-to-react-useeffect-hook/)
 
 ## Accessibility
@@ -32,6 +34,7 @@
 * [Learn Regex](https://regex101.com/)
 * [Vim Cheat Sheet](https://factorpad.com/tech/vim-cheat-sheet.html)
 * [Git & Github 101](https://www.notion.so/Git-GitHub-61bc81766b2e4c7d9a346db3078ce833)
+* [Responsible Web Applications](https://responsibleweb.app/#Joy%E2%80%99s-First-Law-of-Web-Development)
 
 ## CSS Tools
 * [Glassmorphism](https://glassmorphism.com/)
