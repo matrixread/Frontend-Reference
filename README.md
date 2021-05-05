@@ -2,6 +2,9 @@
 
 * [MDN - for everything](https://developer.mozilla.org/en-US/)
 
+## Accessibility
+* [Web Content Accessibility Guidelines](https://www.w3.org/WAI/WCAG21/quickref/)
+
 ## HTML
 * [W3C HTML - Markup Validator](https://validator.w3.org/)
 
@@ -36,8 +39,8 @@
 * [5 Key React Lessons the Tutorials Don't Teach You](https://www.freecodecamp.org/news/5-react-lessons-tutorials-dont-teach/)
 * [The last guide to the useEffect Hook you’ll ever need](https://blog.logrocket.com/guide-to-react-useeffect-hook/)
 
-## Accessibility
-* [Web Content Accessibility Guidelines](https://www.w3.org/WAI/WCAG21/quickref/)
+## ReactNative
+* [Redux Persist](https://itnext.io/react-native-why-you-should-be-using-redux-persist-8ad1d68fa48b)
 
 ## Other
 * [Learn Regex](https://regex101.com/)
