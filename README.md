@@ -29,7 +29,10 @@
 * [Keep Your Promises in TypeScript using async/await](https://blog.bitsrc.io/keep-your-promises-in-typescript-using-async-await-7bdc57041308)
 
 ### Node.js
+* [Routing in Express](https://expressjs.com/en/guide/routing.html)
 * [Node.js Event Loop](https://nodejs.dev/learn/the-nodejs-event-loop)
+* [How to Use Buffers in Node.js](https://nodejs.org/en/knowledge/advanced/buffers/how-to-use-buffers/)
+* [Node.js Streams: Everything you need to know](https://www.freecodecamp.org/news/node-js-streams-everything-you-need-to-know-c9141306be93/)
 
 ### React
 * [Flux Architecture](https://facebook.github.io/flux/docs/in-depth-overview/)
@@ -44,6 +47,7 @@
 
 ## Other
 * [Learn Regex](https://regex101.com/)
+* [HTTP caching](https://developer.mozilla.org/en-US/docs/Web/HTTP/Caching)
 * [Vim Cheat Sheet](https://factorpad.com/tech/vim-cheat-sheet.html)
 * [Git & Github 101](https://www.notion.so/Git-GitHub-61bc81766b2e4c7d9a346db3078ce833)
 * [Don't ask to ask, just ask](https://dontasktoask.com/)
