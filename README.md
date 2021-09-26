@@ -59,3 +59,6 @@
 * [Don't ask to ask, just ask](https://dontasktoask.com/)
 * [Responsible Web Applications](https://responsibleweb.app/#Joy%E2%80%99s-First-Law-of-Web-Development)
 * [Regex tutorial — A quick cheatsheet by examples](https://medium.com/factory-mind/regex-tutorial-a-simple-cheatsheet-by-examples-649dc1c3f285)
+
+## Courses
+* [Google technical writing courses](https://developers.google.com/tech-writing/overview)
