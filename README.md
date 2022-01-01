@@ -2,6 +2,9 @@
 
 * [MDN - for everything](https://developer.mozilla.org/en-US/)
 
+## Interview Preperation
+* [interviews.school](https://interviews.school/)
+
 ## Accessibility
 * [Web Content Accessibility Guidelines](https://www.w3.org/WAI/WCAG21/quickref/)
 
