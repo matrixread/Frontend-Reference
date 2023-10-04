@@ -13,17 +13,19 @@
 
 ## CSS
 * [CSS Guidelines](https://cssguidelin.es/)
+* [Learn CSS web.dev](https://web.dev/learn/css/) ✨
+* [The Greatest CSS Tricks](https://css-tricks.com/books/greatest-css-tricks/full/) ✨
 * [Learn CSS Grid by Building 5 Layouts](https://www.freecodecamp.org/news/learn-css-grid-by-building-5-layouts/)
 * [CSS Variables and How To Use Them](https://blog.shahednasser.com/css-variables-and-how-to-use-them/)
 
 ## CSS Tools
+* [CSS Snippets](https://codemyui.com/)
 * [Glassmorphism](https://glassmorphism.com/)
 * [Tailwind Blocks](https://blocks.wickedtemplates.com/)
-* [CSS Snippets](https://codemyui.com/)
 
 ## Javascript
 * [Learn JS](https://www.learn-js.org/en/)
-* [javscript.info](https://javascript.info/)
+* [javscript.info](https://javascript.info/) ✨
 * [Pluralisght - JS](https://www.javascript.com/)
 * [JavaScript Tutorial](https://www.javascripttutorial.net/)
 * [Eloquent JavaScript PDF](https://eloquentjavascript.net/)
@@ -55,7 +57,8 @@
 * [Flux vs Redux : What Differentiate](https://yourstory.com/mystory/flux-vs-redux/amp)
 
 ## Other
-* [Learn Regex](https://regex101.com/)
+* [Regexr](https://regexr.com/) ✨
+* [Learn Regex](https://regex101.com/) ✨
 * [HTTP caching](https://developer.mozilla.org/en-US/docs/Web/HTTP/Caching)
 * [Vim Cheat Sheet](https://factorpad.com/tech/vim-cheat-sheet.html)
 * [Git & Github 101](https://www.notion.so/Git-GitHub-61bc81766b2e4c7d9a346db3078ce833)
